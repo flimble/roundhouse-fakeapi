@@ -43,23 +43,5 @@
       "entryDate":"2008-11-12",
       "enteredBy":"DEV\\OCTOPUSE",
       "textOfScript":"sqlqq"
-   },
-   {
-      "id":6,
-      "scriptName":"CrossBrandJobPoster.up_add_Job_Site_Link.sql",
-      "version":"1.2.68.0-master",
-      "repositoryPath":"http://www.github.com/andthensome",
-      "entryDate":"2008-11-12",
-      "enteredBy":"DEV\\OCTOPUSE",
-      "textOfScript":"sqlqq"
-   },
-   {
-      "id":7,
-      "scriptName":"CrossBrandJobPoster.up_add_Job_Site_Link.sql",
-      "version":"1.2.68.0-master",
-      "repositoryPath":"http://www.github.com/andthensome",
-      "entryDate":"2008-11-12",
-      "enteredBy":"DEV\\OCTOPUSE",
-      "textOfScript":"sqlqq"
    }
 ]
