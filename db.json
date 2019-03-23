@@ -4,44 +4,34 @@
       "scriptName":"CrossBrandJobPoster.up_add_Job_Site_Link.sql",
       "version":"1.2.68.0-octopus-deploy-me",
       "repositoryPath":"http://www.github.com/andthensome",
-      "entryDate":"2008-11-12",
-      "enteredBy":"DEV\\OCTOPUSE",
-      "textOfScript":"bal"
+      "entryDate":"2008-11-12"
    },
    {
       "id":2,
       "scriptName":"CrossBrandJobPoster.up_add_Job_Site_Link.sql",
       "version":"1.2.68.0-master",
       "repositoryPath":"http://www.github.com/andthensome",
-      "entryDate":"2008-11-12",
-      "enteredBy":"DEV\\OCTOPUSE",
-      "textOfScript":"sqlqq"
+      "entryDate":"2008-11-12"
    },
    {
       "id":3,
       "scriptName":"CrossBrandJobPoster.up_add_Job_Site_Link.sql",
       "version":"1.2.68.0-master",
       "repositoryPath":"http://www.github.com/andthensome",
-      "entryDate":"2008-11-12",
-      "enteredBy":"DEV\\OCTOPUSE",
-      "textOfScript":"sqlqq"
+      "entryDate":"2008-11-12"
    },
    {
       "id":4,
       "scriptName":"CrossBrandJobPoster.up_add_Job_Site_Link.sql",
       "version":"1.2.68.0-master",
       "repositoryPath":"http://www.github.com/andthensome",
-      "entryDate":"2008-11-12",
-      "enteredBy":"DEV\\OCTOPUSE",
-      "textOfScript":"sqlqq"
+      "entryDate":"2008-11-12"
    },
    {
       "id":5,
       "scriptName":"CrossBrandJobPoster.up_add_Job_Site_Link.sql",
       "version":"1.2.68.0-master",
       "repositoryPath":"http://www.github.com/andthensome",
-      "entryDate":"2008-11-12",
-      "enteredBy":"DEV\\OCTOPUSE",
-      "textOfScript":"sqlqq"
+      "entryDate":"2008-11-12"
    }
 ]
